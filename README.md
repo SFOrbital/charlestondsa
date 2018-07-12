@@ -1,5 +1,5 @@
-# charlestondsa
-** ACAB **
+# charlestondsa.org
+
 
 This project should stay open and available to all members of the Charleston DSA. 
 
